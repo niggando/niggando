@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Kaio Henrique 😁
 
 - 🔭 Currently, I work as a civil engineer
-- 🌱 Learning Python, SQL and PowerBI in the Data Science class at Let's Code | FullStack Development in the OracleNextOne Program by Alura + Oracle
+- 🌱 Learning Python, SQL and PowerBI in the Data Science class at Let's Code
 - 😄 Pronouns: he/him
 
 May the force be with u!
