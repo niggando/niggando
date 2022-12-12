@@ -32,6 +32,6 @@ May the force be with u!
 
 <div align="center"> 
  
-  ![Snake animation](https://github.com/niggando/niggando/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/niggando/niggando/blob/main/.github/workflows/main.yml)
   
 </div>
