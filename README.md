@@ -30,8 +30,8 @@ May the force be with u!
    
 </div>
 
-<div align="center"> 
+<!-- <div align="center"> 
  
   ![Snake animation](https://github.com/niggando/niggando/blob/main/.github/workflows/main.yml)
   
-</div>
+</div> -->
